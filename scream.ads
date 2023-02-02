@@ -8,8 +8,8 @@
 			"BannerAdmob": "ca-app-pub-1010770342437944/3792225568",
 			"InterstitialAdmob": "ca-app-pub-1010770342437944/1021472430",
 
-			"BannerFacebook": "628915755243490_628921531909579",
-			"InterstitialFacebook": "628915755243490_628921761909556",
+			"BannerFacebook": "594930265627136_594930765627000",
+			"InterstitialFacebook": "594930265627136_594931265627000",
 			
 			"unityGameID": "5145751",
 			"UnityPlacement": "Interstitial_Android",
